@@ -1,14 +1,5 @@
 # Trello Clone With MERN Stack!
 
-
-
-This is an app built with MERN Stack, and you can access the live demo [HERE](https://trello-clone-umurdogan.herokuapp.com) and you can CLICK the following image to watch video! 
-
-[![Trello clone video](https://i.ibb.co/6PRn1Bw/Ekran-g-r-nt-s-2021-12-23-16-21-36.png)](https://www.youtube.com/watch?v=D2Vcb_QIWmA)
-
-
-Click the image to watch video!
-&nbsp;
 # Purpose
 My purpose of developing this project is to show what I can do both on the frontend and the backend. I would also like to point out that it is my first project as Mern stack.
 
@@ -30,24 +21,6 @@ My purpose of developing this project is to show what I can do both on the front
 - Comment on cards or boards
 - Search boards or cards titles
 
-&nbsp;
-# Used Technologies
-
-| Server Side    	| Client Side               	| Only Development 	|
-|----------------	|---------------------------	|------------------	|
-| expressjs      	| styled-components         	| nodemon          	|
-| express-unless 	| reduxjs-toolkit           	|                  	|
-| mongoose       	| react-beautiful-dnd       	|                  	|
-| cors           	| material-ui                	|                  	|
-| path           	| axios                     	|                  	|
-| dotenv         	| date-fns                  	|                  	|
-| jsonwebtoken   	| moment                    	|                  	|
-| bcryptjs       	| atlaskit/css-reset        	|                  	|
-|                  	| react-hook/mouse-position 	|                  	|
-|                	| react-router              	|                  	|
-|                	| react hooks                 	|                  	|
-
-&nbsp;
 ## How to run?
 
 - Download nodejs [here](https://nodejs.org/en/download/) 
